@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: EmployeesDb
+      host: localhost
+      port: 27017
+
+
+
+
